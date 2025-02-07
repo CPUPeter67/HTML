@@ -1,0 +1,12 @@
+<!DOCTYPE >
+<html lang="en">
+    <head>
+        <title>CSS Box Model Example</title>
+        <style type="text/css">
+            .example1 {
+                width: 220px;
+                background-color: yellow;
+                padding: 0px;
+                border: 0px;
+                margin: 0px;
+            }
